@@ -1,0 +1,84 @@
+object frmMain: TfrmMain
+  Left = 0
+  Top = 0
+  Caption = 'CallKit'
+  ClientHeight = 596
+  ClientWidth = 451
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnCreate = FormCreate
+  DesignerMasterStyle = 0
+  object Button1: TButton
+    Position.X = 16.000000000000000000
+    Position.Y = 232.000000000000000000
+    Size.Width = 113.000000000000000000
+    Size.Height = 25.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    Text = 'IncomingCall'
+    OnClick = Button1Click
+  end
+  object ed_DeviceToken: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 2
+    Position.X = 16.000000000000000000
+    Position.Y = 40.000000000000000000
+    Size.Width = 305.000000000000000000
+    Size.Height = 25.000000000000000000
+    Size.PlatformDefault = False
+    TextPrompt = 'DeviceToken'
+  end
+  object lb_DeviceToken: TLabel
+    StyledSettings = []
+    Position.X = 16.000000000000000000
+    Position.Y = 8.000000000000000000
+    Size.Width = 225.000000000000000000
+    Size.Height = 25.000000000000000000
+    Size.PlatformDefault = False
+    TextSettings.Font.Size = 14.000000000000000000
+    Text = 'Device token'
+    TabOrder = 4
+  end
+  object Switch1: TSwitch
+    IsChecked = False
+    Position.X = 144.000000000000000000
+    Position.Y = 88.000000000000000000
+    TabOrder = 5
+  end
+  object Label1: TLabel
+    StyledSettings = []
+    Position.X = 16.000000000000000000
+    Position.Y = 88.000000000000000000
+    Size.Width = 105.000000000000000000
+    Size.Height = 25.000000000000000000
+    Size.PlatformDefault = False
+    TextSettings.Font.Size = 14.000000000000000000
+    Text = 'Active'
+    TabOrder = 3
+  end
+  object ed_CallName: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 6
+    Position.X = 16.000000000000000000
+    Position.Y = 176.000000000000000000
+    Size.Width = 209.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    TextPrompt = 'Call name'
+  end
+  object Button2: TButton
+    Position.X = 16.000000000000000000
+    Position.Y = 272.000000000000000000
+    Size.Width = 113.000000000000000000
+    Size.Height = 25.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 8
+    Text = 'End call'
+    OnClick = Button2Click
+  end
+  object NotificationCenter: TNotificationCenter
+    Left = 368
+    Top = 136
+  end
+end

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/01/25 17:32:47.000.866,=C:\Users\sounder\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/01/30 14:39:59.000.140,=C:\Users\sounder\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/01/31 10:14:57.000.671,=C:\Users\sounder\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/01/31 10:15:21.000.679,C:\Users\sounder\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\sounder\Desktop\CallKit\Unit1.fmx</Transaction>
+    <Transaction>2019/01/31 10:15:21.000.679,C:\Users\sounder\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\sounder\Desktop\CallKit\Unit1.pas</Transaction>
+    <Transaction>2019/01/31 10:15:22.000.070,C:\Users\sounder\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\sounder\Desktop\CallKit\Project1.dproj</Transaction>
+    <Transaction>2019/01/31 10:37:18.000.246,=C:\Users\sounder\Desktop\CallKit\adCallKit\adCallkit.pas</Transaction>
+    <Transaction>2019/01/31 10:37:22.000.966,=C:\Users\sounder\Desktop\CallKit\Unit2.pas</Transaction>
+    <Transaction>2019/01/31 10:37:40.000.041,C:\Users\sounder\Desktop\CallKit\Unit2.pas=C:\Users\sounder\Desktop\CallKit\adPushKit\adPushKit.pas</Transaction>
+    <Transaction>2019/01/31 11:06:17.000.064,C:\Users\sounder\Desktop\CallKit\Unit1.fmx=C:\Users\sounder\Desktop\CallKit\uMain.fmx</Transaction>
+    <Transaction>2019/01/31 11:06:17.000.064,C:\Users\sounder\Desktop\CallKit\Unit1.pas=C:\Users\sounder\Desktop\CallKit\uMain.pas</Transaction>
+    <Transaction>2019/01/31 11:07:11.454,C:\Users\sounder\Desktop\CallKit\CallKit.dproj=C:\Users\sounder\Desktop\CallKit\Project1.dproj</Transaction>
+    <Transaction>2019/01/31 12:32:27.497,=C:\Users\sounder\Desktop\CallKit\QQ.jpg</Transaction>
+    <Transaction>2019/01/31 12:34:30.811,=C:\Users\sounder\Desktop\CallKit\QQ.png</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PMac iOSSimulator="iPhone5" iOSDevice32="_iosdevice_2903cd40d29e660d598cc1b42e2034b194db3743" iOSDevice64="_iosdevice_2903cd40d29e660d598cc1b42e2034b194db3743"/>
+		<NoProfile Android="015d46d92b44140e"/>
+	</ActiveMobileDevice>  <BT_BuildType>Adhoc</BT_BuildType>
+</BorlandProject>
